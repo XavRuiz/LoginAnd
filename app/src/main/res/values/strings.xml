@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginAnd</string>
+    <string name="Cantidad_Estudiante">Cantidad_Estudiante</string>
+    <string name="aleatorio">aleatorio</string>
+</resources>
